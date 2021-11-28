@@ -7,7 +7,7 @@ Este código es un filtro de acciones diario que escribí que pasa por todas las
 
 ### Sample Email ## Ejemplo del Email
 
-![alt text](https://github.com/luis12614/ichimoku_screener/images/SampleIchimokuEmail.PNG "Sample Email")
+![alt text](https://github.com/luis12614/ichimoku_screener/blob/main/images/SampleIchimokuEmail.png "Sample Email")
 
 ### What is Ichimoku?
 
